@@ -1,0 +1,17 @@
+{
+  "name": "pro_con",
+  "version": "1.0.0",
+  "description": "pro con list app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "kristen judd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "pg": "^4.4.3",
+    "body-parser": "~1.0.1"
+  }
+}
